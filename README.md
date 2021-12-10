@@ -1,6 +1,6 @@
 # Python-Learning
 ![Python](https://www.python.org/static/community_logos/python-logo.png)
-
+[lol](file:///C:/Users/Tirthan/Downloads/java-python.svg)
 
 Repository where I upload some of the important things I lern
 about python and github:
