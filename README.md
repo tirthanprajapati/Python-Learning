@@ -1,6 +1,6 @@
 # Python-Learning
 ![Python](https://www.python.org/static/community_logos/python-logo.png)
-![gif](<div class="tenor-gif-embed" data-postid="16957606" data-share-method="host" data-aspect-ratio="4" data-width="100%"><a href="https://tenor.com/view/python-powered-logo-programming-language-gif-16957606">Python Powered GIF</a>from <a href="https://tenor.com/search/python-gifs">Python GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![gif](https://tenor.com/bjjBW.gif)
 
 
 Repository where I upload some of the important things I learn,
