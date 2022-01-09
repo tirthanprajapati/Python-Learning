@@ -1,5 +1,5 @@
 # Python-Learning
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height: 100px; width: 100px;>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  width="100" height="100">
 
 
 Repository where I upload some of the important things I lern
